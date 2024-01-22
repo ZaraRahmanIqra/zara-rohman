@@ -1,0 +1,27 @@
+/* header and navigation style */
+.nav-title{
+    font-size: 40px;
+    font-weight: 800;
+}
+.text-primary{
+    color: orangered;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left:50px 200px;
+}
+nav{
+    list-style: none;
+}
+nav li {
+    list-style: none;
+}
+.btn-primary{
+    height: 60px;
+    background: orangered;
+    font-size: 20px;
+    border: 0px;
+    height: 64px;
+   font-weight: 700px;
+}
